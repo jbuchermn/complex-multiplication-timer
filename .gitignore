@@ -1,2 +1,5 @@
-main_*
+a.out
+**/*.o
+*/main
 tags
+**/Eigen

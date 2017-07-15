@@ -1,5 +1,5 @@
 CXX     = g++-6
-CFLAGS  = -Ofast
+CFLAGS  = -Ofast -I./lib
 LDFLAGS = -lstdc++
 
 default: main
